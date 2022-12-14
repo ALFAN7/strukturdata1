@@ -1,1 +1,1 @@
-# strukturdata1
+# strukturdata
